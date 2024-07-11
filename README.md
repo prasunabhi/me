@@ -11,7 +11,7 @@
 </div>
 
 
-## <picture><img src = "https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1726099200&v=beta&t=WOzupwBjsAc8KUj7aacHR1UMn1qVmYf8_9YrfpUs4Xo" width = 50px></picture> **About me**
+## <picture><img src = "https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1726099200&v=beta&t=WOzupwBjsAc8KUj7aacHR1UMn1qVmYf8_9YrfpUs4Xo" width = 500px></picture> **About me**
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; ">
   As a business and data analyst, I'm deeply passionate about deciphering data, driven by curiosity, exploring innovative analytics techniques, and continuously honing my skills.
