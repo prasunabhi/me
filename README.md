@@ -11,7 +11,7 @@
 </div>
 
 
-## <picture><img src = "https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width = 75px></picture> **About me**
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width = 200px></picture> **About me**
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; ">
   As a business and data analyst, I'm deeply passionate about deciphering data, driven by curiosity, exploring innovative analytics techniques, and continuously honing my skills.
