@@ -11,9 +11,7 @@
 </div>
 
 
-## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 500px></picture>
-<br>
-<h1>About me</h1>
+## <picture><img src = "https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif **About Me**
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; ">
   As a business and data analyst, I'm deeply passionate about deciphering data, driven by curiosity, exploring innovative analytics techniques, and continuously honing my skills.
