@@ -11,7 +11,7 @@
 
 <h2 align="center"></h2>
 <div style="text-align: center; margin-top: 20px;">
-  <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="500px">
+  <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="1000px">
 </div>
 
 <div align="center">
