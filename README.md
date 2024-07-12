@@ -14,8 +14,7 @@
   <table style="width:100%" >
     <tr>
       <td align="center">
-        Looks like my website accidentally became the hottest spot in
-        town, even your visitor count decided to swing by for a party!
+        Profile Views
       </td>
     </tr>
     <tr>
