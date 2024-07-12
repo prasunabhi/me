@@ -13,7 +13,7 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 200px></picture>
 <br>
-<strong>About me</strong>
+<h3>About me</h3>
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; ">
   As a business and data analyst, I'm deeply passionate about deciphering data, driven by curiosity, exploring innovative analytics techniques, and continuously honing my skills.
