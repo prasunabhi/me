@@ -10,6 +10,21 @@
   </a>
 </div>
 
+<div align="center">
+  <table style="width:100%" >
+    <tr>
+      <td align="center">
+        Looks like my website accidentally became the hottest spot in
+        town, even your visitor count decided to swing by for a party!
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://profile-counter.glitch.me/aishwaryamensinkai/count.svg" alt="" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
