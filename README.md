@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://profile-counter.glitch.me/aishwaryamensinkai/count.svg" alt="" />
+        <img src="https://profile-counter.glitch.me/prasunabhi/count.svg" alt="" />
       </td>
     </tr>
   </table>
