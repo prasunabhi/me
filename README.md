@@ -48,7 +48,7 @@
 
 <ul style="padding:0px;">
   <li style="margin-bottom: 10px;margin-top: 10px;">
-    <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;
+    <img src="https://github.com/prasunabhi/prasunabhi/blob/main/developer.gif?raw=true" width="21" />&nbsp;&nbsp;
     I'm knee-deep in creating dynamic Power BI dashboards and optimizing data processes.
     Python programming, SQL, and visual storytelling with Tableau are my current learning obsessions.
   </li>
