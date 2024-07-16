@@ -53,7 +53,7 @@
     Python programming, SQL, and visual storytelling with Tableau are my current learning obsessions.
   </li>
   <li style="margin-bottom: 10px;margin-top: 10px;">
-    <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp;
+    <img src="https://github.com/prasunabhi/prasunabhi/blob/main/message.gif?raw=true" width="21" />&nbsp;&nbsp;
     Feel free to toss any questions my way; I'm always up for a quick chat!
   </li>
   <li style="margin-bottom: 10px;margin-top: 10px;">
