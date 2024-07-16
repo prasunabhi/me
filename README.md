@@ -61,7 +61,7 @@
     Oh, and if you need to reach me, drop a line at <a href="mailto:prasunabhi22@gmail.com">prasunabhi22@gmail.com</a>
   </li>
   <li style="margin-bottom: 10px;margin-top: 10px;">
-    <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp;
+    <img src="https://github.com/prasunabhi/prasunabhi/blob/main/doc.gif?raw=true" width="21" />&nbsp;&nbsp;
     Interested in delving deeper into my qualifications and experiences? Check out my portfolio, attached for your reference.
   </li>
 </ul>
